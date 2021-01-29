@@ -1,7 +1,8 @@
-#System Integration
-##Overview
+# System Integration
+## Overview
 This is the final project of the Udacity Self-Driving Car Engineer Nanodegree. In this project, the goal is to program a Real Self-Driving Car by creating ROS nodes to implement core functionality of the vehicle systems. The software pipeline contains traffic light detection and classification, trajectory planning, and control.
-###The team
+
+### The team
 
 | Name          	| Udacity Account Email    |
 |-------------------|--------------------------|
